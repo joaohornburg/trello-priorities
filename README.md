@@ -3,7 +3,7 @@ Takes all cards in a Trello list and prefixes them with their position in that l
 
 # how to use it
 
-Make sure you have ruby installed on your machine.
+Make sure you have Ruby and Bundler installed on your machine.
 
 Install dependencies:
 
